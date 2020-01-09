@@ -1,5 +1,5 @@
 # Exploring hacker news post
-* Guided project for Dataquest: python for data science-intermediate *
+* This project is the final assignment of the 'Python for Data Science: Intermediate' course on Dataquest.io. 
  
  In this project we'll analyze Ask and Show posts on Hacker News and analyze which posts created at what hour receive the most comments
 
